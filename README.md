@@ -10,13 +10,13 @@ Um amiguinho de mesa que mantém o computador acordado.
 Ela é pequena, fica num cantinho da tela e tem vida própria: respira, pisca, olha para o
 mouse, passeia, toma café, almoça e dorme no ninho.
 
-> Também existe para [macOS](https://github.com/RafaelRJesus/coruja) e [Windows](https://github.com/RafaelRJesus/coruja-windows).
+> Também existe para [macOS](https://github.com/RafaelRJesus/MAC_Coruja) e [Windows](https://github.com/RafaelRJesus/Windows_Coruja).
 
 ## Instalação
 
 ```bash
-git clone https://github.com/RafaelRJesus/coruja-linux.git
-cd coruja-linux
+git clone https://github.com/RafaelRJesus/Linux_Coruja.git
+cd Linux_Coruja
 bash instalar.sh               # ou: bash instalar.sh --autostart (abre junto com o computador)
 ```
 
